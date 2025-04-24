@@ -1,40 +1,28 @@
-Key points to be addressed from the data.
+Key Points to be Addressed from the Data:
 
-You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
-You need to analyse sales based on product categories and determine which category has the lowest sales and which category has the highest sales.
-The sales analysis needs to be done based on sub-categories.
-Could you look over the monthly profit from sales and determine which month had the highest profit?
-Analyse the profit by category and sub-category.
-Analyse the sales and profit by customer segment.
-Analyse the sales-to-profit ratio.
+Monthly Sales Analysis:
+  - Calculate the monthly sales of the store.
+  - Identify the month with the highest sales.
+  - Identify the month with the lowest sales.
 
-## Key Points to be Addressed from the Data
+Sales Analysis by Product Category:
+  - Analyse sales based on product categories.
+  - Determine the category with the highest sales.
+  - Determine the category with the lowest sales.
 
-This project aims to address the following key points through data analysis:
+Sales Analysis by Sub-Category:
+  - Perform sales analysis based on sub-categories.
 
-* **Monthly Sales Analysis:**
-    * Calculate the monthly sales of the store.
-    * Identify the month with the highest sales.
-    * Identify the month with the lowest sales.
+Monthly Profit Analysis:
+  - Determine which month had the highest profit.
 
-* **Sales Analysis by Product Category:**
-    * Analyze sales based on product categories.
-    * Determine the category with the highest sales.
-    * Determine the category with the lowest sales.
+Profit Analysis:
+  - Analyse profit by category.
+  - Analyse profit by sub-category.
 
-* **Sales Analysis by Sub-Category:**
-    * Perform sales analysis based on sub-categories.
+Customer Segment Analysis:
+  - Analyse sales and profit by customer segment.
 
-* **Monthly Profit Analysis**
-    * Determine which month had the highest profit.
-
-* **Profit Analysis:**
-    * Analyze profit by category.
-    * Analyze profit by sub-category.
-
-* **Customer Segment Analysis:**
-    * Analyze sales and profit by customer segment.
-
-* **Sales-to-Profit Ratio Analysis:**
-    * Analyze the sales-to-profit ratio.
+Sales-to-Profit Ratio Analysis:
+  - Analyse the sales-to-profit ratio.
 
