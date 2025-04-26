@@ -6,11 +6,11 @@ This project presents an interactive sales and profit analysis dashboard for an 
 
 - Sales & Profit analysis by Customer Segment  
 - Interactive bar charts using `plotly.graph_objects`  
-- Custom color themes using `px.colors.qualitative.Vivid`
+- Custom colour themes using `px. colours. qualitative.Vivid`
 
 ## 📁 File
 
-- `E_commerce_Sales_Insights_Dashboard.ipynb` — Jupyter Notebook containing the complete analysis and visualization code.
+- `E_commerce_Sales_Insights_Dashboard.ipynb` — Jupyter Notebook containing the complete analysis and visualisation code.
 
 ## 📦 Requirements
 
@@ -26,17 +26,20 @@ pip install pandas plotly
 
 ## 🚀 How to Run
 
-1. Open the notebook in Jupyter or any IDE like VS Code.  
-2. Run all cells to generate visual insights.
+1. Open the notebook using Jupyter Notebook, VS Code, or any compatible IDE.  
+2. Execute all cells to generate the visual insights.
 
-## 📌 Purpose
+## 📌 Project Purpose
 
-This dashboard helps in identifying profitable segments and supports strategic business decisions.
+This dashboard is designed to identify profitable market segments and assist in making informed, strategic business decisions.
 
-## 📌 Credit
+## 🎯 Project Presentation
 
-link- https://youtu.be/cYKZltrlorQ
+Check out a quick presentation of the project here:  
+[View Presentation](https://www.canva.com/design/DAGluqZQb4o/QB15ysub5kTTIIPYKzgaMw/view?utm_content=DAGluqZQb4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8ba182d82f)
+
+## 📚 Credits
+
+Reference video: [Watch here](https://youtu.be/cYKZltrlorQ)
 
 ---
-
-Let me know if you want badges, a live demo link, or screenshots added!
