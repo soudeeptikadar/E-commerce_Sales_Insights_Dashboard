@@ -33,6 +33,10 @@ pip install pandas plotly
 
 This dashboard helps in identifying profitable segments and supports strategic business decisions.
 
+## 📌 Credit
+
+link- https://youtu.be/cYKZltrlorQ
+
 ---
 
 Let me know if you want badges, a live demo link, or screenshots added!
